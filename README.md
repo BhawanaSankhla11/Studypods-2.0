@@ -11,3 +11,7 @@ S.No.                     Date              File name        Program            
 3.                      28/07/2021           array.cpp       array 
 4.                      29/07/2021           str.cpp         structure
 5.                      30/07/2021           fun.cpp         function
+6.                      31/07/2021           cbr.cpp         call by value and referece in cpp
+7.                      01/08/2021           ifun.cpp        inline function
+8.                      02/08/2021           rec.cpp         recursions    
+9.                      04/08/2021           fun.cpp         function overloading
