@@ -15,3 +15,6 @@ S.No.                     Date              File name        Program            
 7.                      01/08/2021           ifun.cpp        inline function
 8.                      02/08/2021           rec.cpp         recursions    
 9.                      04/08/2021           fun.cpp         function overloading
+10.                     05/08/2021              -            Object oriented programming
+11.                     06/08/2021           class.cpp       classes,public and private modifiers
+12.                     07/08/2021           oop.cpp         member function
