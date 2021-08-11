@@ -18,3 +18,6 @@ S.No.                     Date              File name        Program            
 10.                     05/08/2021              -            Object oriented programming
 11.                     06/08/2021           class.cpp       classes,public and private modifiers
 12.                     07/08/2021           oop.cpp         member function
+13.                     08/08/2021           memory.cpp      memory allocation
+14.                     10/08/2021           static.cpp      static data members
+15.                     11/08/2021           objarr.cpp      object arrays & arguments in cpp
