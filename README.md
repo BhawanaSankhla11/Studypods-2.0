@@ -21,3 +21,8 @@ S.No.                     Date              File name        Program            
 13.                     08/08/2021           memory.cpp      memory allocation
 14.                     10/08/2021           static.cpp      static data members
 15.                     11/08/2021           objarr.cpp      object arrays & arguments in cpp
+16.                     12/08/2021           friend.cpp      friend function
+17.                     13/08/2021           frcla.cpp       friend class 
+18.                     14/08/2021           mff.cpp         more on friend function
+19.                     15/08/2021           cons.cpp        constructors
+20.                     17/08/2021           const.cpp       parameterized and default constructors
